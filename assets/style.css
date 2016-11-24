@@ -142,77 +142,12 @@ section header h1, section header h2, section header, p {
   padding-bottom: 15px;
 }
 
-#panel-1, #panel-2, #panel-3 {
-}
-
-/* Video 1 */
-
-.video {
-  height: 400px;
-  max-width: 100em;
-  margin: 0 auto;
-}
-
-/* For the panel/image combo */
-
-.panel-container {
-  width: 100%;
-}
-
-.panel-wrapper {
-  overflow-x: auto;
-  overflow-y: hidden;
-  height: 300px;
-}
-
-.big-panel {
-  margin: 0px;
-  display: inline-block;
-  height: 300px;
-  width: 73%;
-}
-
-.small-img {
-  margin: 0px;
-  display: inline-block;
-  height: 300px;
-  width: 25%;
-  background-color: white;*/
-}
-
-/* 10,000 hour theory */
-
-#theory-img {
-  float: right;
-}
-
-#theory-panel {
-  float: left;
-}
-
-/* First 20 hours theory */
-
-#hours-img {
-  float: left;
-}
-
-#hours-panel {
-  float: right;
-}
-
-/* Conclusion */
-
-#conclusion-panel {
-  height: 300px;
-  margin-bottom: 30px;
-}
-
 /* Footer */
 
 footer {
   height: 40px;
   width: 100%;
-  background-color: #110000;
+  background-color: #263d36;
   border: 1px #333 solid;
 }
 
@@ -234,7 +169,7 @@ img {
 }
 
 #learning-curve-img {
-  width: 30%;
+  width: 50%;
 }
 
 #bomb-comic {
