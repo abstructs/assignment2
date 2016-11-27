@@ -73,7 +73,7 @@ iframe {
 #jumbotron {
   color: #eaeaea;
   background-color: #263d36;
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('rocks.jpeg');
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/rocks.jpeg');
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
